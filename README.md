@@ -24,6 +24,12 @@ A hands-on cybersecurity lab focused on securing a Windows Server environment ho
 - SMB encryption
 - PowerShell script block logging
 - DNS activity monitoring
+  
+## Configuration Preview
+
+Windows Defender Firewall enabled across all three network profiles.
+
+![Windows Defender Firewall Configuration](firewall-configuration.PNG)
 
 ## Lab Documentation
 
