@@ -29,7 +29,7 @@ A hands-on cybersecurity lab focused on securing a Windows Server environment ho
 
 The full lab report documents 19 security controls with screenshots, configurations, and explanations of their security objectives.
 
-[View Full Lab Report](Windows_Server_Hardening_Lab.pdf)
+[View Full Lab Report](Michael_Davila_Windows_Server_Hardening_Lab.pdf)
 
 ## Key Takeaways
 
